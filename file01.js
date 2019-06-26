@@ -1,1 +1,5 @@
-console.log('hello world')
+functionn greet(name){
+console.log('hello' + name)
+}
+
+greet('world')
